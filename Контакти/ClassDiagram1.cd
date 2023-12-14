@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConnectionsInteraction.Connections">
+    <Position X="13.25" Y="0.5" Width="5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAACAAAAIAAQQAAAACCAgEAAAAAIAMCAAEAAgQA=</HashCode>
+      <FileName>Connections.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ContactsInteraction.Contacts">
+    <Position X="0.5" Y="0.5" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>ACCACEAACAAAAABAAAARQAAAAIABAQAmBMAAUEJABBA=</HashCode>
+      <FileName>Contacts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrganizationsInteraction.Organizations">
+    <Position X="5.75" Y="0.5" Width="7" />
+    <TypeIdentifier>
+      <HashCode>AAAACEAACAAAAAAAAAARAAAAACABEQEmAMAAUEJABBA=</HashCode>
+      <FileName>Organizations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataBaseConnection.DataBase">
+    <Position X="0.5" Y="6.75" Width="4.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABABAAAQAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>DataBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="General_settings.Settings">
+    <Position X="5.75" Y="6.75" Width="7.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EAQAAEAAAAAAQAAAAAAAAAAAAAAAEAAEAAAAAACAAAA=</HashCode>
+      <FileName>Settings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Контакти.MainForm">
+    <Position X="20.5" Y="0.5" Width="4.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EIAAIBAAACAAABAAAECQgAACBICEAAEAAAQAAABAEAA=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Контакти.InformationForm">
+    <Position X="26" Y="0.5" Width="4.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>MAAAIBEAACAEABAAAACAAAgCAACAACAAAAAAAEBAAAA=</HashCode>
+      <FileName>InformationForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Контакти.TableForm">
+    <Position X="32.5" Y="0.5" Width="4" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>/wAANBJBAiMGotlIAEGYgQAGwImEACQAEKIgEYBDMhA=</HashCode>
+      <FileName>ContactsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Контакти.AddNote">
+    <Position X="37.5" Y="0.5" Width="4.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>SEAgIRYBACCGgpAkBByIAQACAgDCqCABAAAACIBDiAA=</HashCode>
+      <FileName>ContactsAddForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Контакти.ChangeNote">
+    <Position X="43" Y="0.5" Width="3.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>SEAgIRYBACGGgpAkBB6IAQACASDCqAABAIAgCABDiEA=</HashCode>
+      <FileName>ContactsChangeForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Контакти.DeleteNote">
+    <Position X="47.5" Y="0.5" Width="3.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>xAAAIBYAASEAgpAAAACAAAAGASGAAAAAAIAgAgBCAAA=</HashCode>
+      <FileName>ContactsDeleteForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Контакти.OrganizationsForm">
+    <Position X="53.5" Y="0.5" Width="4" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>/wABMBKBKCMEolhAAEGIgQAGwAmEACQAEIIgEYBCEgA=</HashCode>
+      <FileName>OrganizationsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Контакти.OrganizationsAddForm">
+    <Position X="58.25" Y="0.5" Width="3.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>SEgiIRIAAGCGghAABAWIAQACgADAiCCBAAAACIBDCAA=</HashCode>
+      <FileName>OrganizationsAddForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Контакти.OrganisationsChangeForm">
+    <Position X="62.5" Y="0.5" Width="3.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>SEgAIRYBAGGHghAABAWIAQACgSDCqACAAIAgCABDAAA=</HashCode>
+      <FileName>OrganizationsChangeForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Контакти.OrganisationsDeleteForm">
+    <Position X="67" Y="0.5" Width="3.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QAAAIBIAEGEAghAAAACAAAAGASGAAQAAAIAgAABCCIA=</HashCode>
+      <FileName>OrganizationsDeleteForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Контакти.ConnectionForm">
+    <Position X="73" Y="0.5" Width="4" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>3zhFIBYBEOIFgtxCAECAAQImQDmEAiAAAqIgBZBSAhA=</HashCode>
+      <FileName>ConnectionForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Контакти.ConnectionAddForm">
+    <Position X="77.75" Y="0.5" Width="3.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>gQAAIFIBACAAAVAAQALACAACASCAICAIoAIAAIBAAAA=</HashCode>
+      <FileName>ConnectionAddForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Контакти.ConnectionChangeForm">
+    <Position X="81.75" Y="0.5" Width="3.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>gQgAIFIBECAAABQAAALAIAACCSjAICCAoAIAgABAAAA=</HashCode>
+      <FileName>ConnectionChangeForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Контакти.ConnectionDeleteForm">
+    <Position X="86" Y="0.5" Width="3.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAkAIBIAECAAgBAAACCABAAGCDmAIAAAIAAAgABAAAA=</HashCode>
+      <FileName>ConnectionDeleteForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
